@@ -2,6 +2,11 @@
   text-align: center;
 }
 
+.video-js {
+  height: 500px;
+  width: 650px;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
