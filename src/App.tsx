@@ -27,12 +27,12 @@ function App() {
   }, [type])
 
   useEffect(() => {
-    
+
   })
   
   return (
     <div className="App">
-      <h3>test</h3>
+      <h3>test 2</h3>
       <button onClick={() => settype('both')}>both</button>
       <button onClick={() => settype('mux')}>mux</button>
       <button onClick={() => settype('bright')}>bright</button>
